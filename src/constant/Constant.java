@@ -13,8 +13,8 @@ public class Constant {
 	final public static String ROUTE="p";
 	final public static String NUMBER = "&numbers=";
 	final public static String GREETING = "....WISH YOU HAPPY BIRTHDAY.....";
-	final public static String SENDMAILFRON = "renukaraut597@gmail.com";
-	final public static String PASSWORD = "Renuka@123";
+	final public static String SENDMAILFRON = "cvbasu97@gmail.com";
+	final public static String PASSWORD = "basu@GMAIL1";
 	final public static String SUBJECT =  "BIRTHDAY NOTIFICATION";
 	final public static String HOST = "mail.smtp.host";
 	final public static String GMAIL ="smtp.gmail.com";
