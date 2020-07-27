@@ -2,7 +2,7 @@ package constant;
 
 public class Constant {
 	
-	final public static String APIKEY="KMibQhZzyO9mrtFCn5pqsvLHfVJgeW43RwYlGa2xBITo8cujk6bc6F5ZxIWrH8eA0hRLiEN4kXYg9uOq"; 		
+	final public static String APIKEY="RPc5VO6C3WTnBmeXU1sZLAN9GjMlqxoIdaKH8Qbp4hi20FzrfkOPsBiIv9U80LrnQK43NHcktho6Sulb"; 		
 	final public static String SENDID="FSTSMS"; 		
 	final public static String URL ="https://www.fast2sms.com/dev/bulk?authorization=";
 	final public static String SEND_ID ="&sender_id=";
